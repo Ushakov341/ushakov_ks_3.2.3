@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://USERNAME.github.io/spacex-launches-2020",
+  "homepage": "https://ushakov341.github.io/ushakov_ks_3.2.3",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
