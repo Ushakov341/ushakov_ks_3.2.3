@@ -45,7 +45,7 @@ function App() {
       <div className="min-h-screen bg-gray-50 py-8">
         <Container size="xl">
           <Title order={1} className="text-center mb-8">
-            SpaceX запуски 2020
+            SpaceX Launches 2020
           </Title>
 
           {state.loading && (

@@ -29,7 +29,7 @@ export function LaunchCard({ launch, onSeeMore }: LaunchCardProps) {
         </h3>
         <p className="text-gray-500 mb-4">{launch.rocket.rocket_name}</p>
         <Button fullWidth onClick={onSeeMore}>
-          Подробнее
+          See more
         </Button>
       </div>
     </Card>
