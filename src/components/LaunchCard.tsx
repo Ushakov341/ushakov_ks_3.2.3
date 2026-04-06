@@ -18,7 +18,7 @@ export function LaunchCard({ launch, onSeeMore }: LaunchCardProps) {
           />
         ) : (
           <div className="w-32 h-32 bg-gray-200 flex items-center justify-center rounded">
-            <span className="text-gray-400">No image</span>
+            <span className="text-gray-400">Нет картинки</span>
           </div>
         )}
       </Card.Section>
